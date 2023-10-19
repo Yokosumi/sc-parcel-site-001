@@ -1,0 +1,34 @@
+{
+  "animes": [
+    {
+      "name": "<link>Attack on Titan</link>",
+      "genre": "[Action, Drama, Fantasy]",
+      "release_year": 2013,
+      "rating": 8.9
+    },
+    {
+      "name": "<link>One Piece</link>",
+      "genre": "Action, Adventure, Comedy",
+      "release_year": 1999,
+      "rating": 8.7
+    },
+    {
+      "name": "<link>Naruto</link>",
+      "genre": "Action, Adventure, Martial Arts",
+      "release_year": 2002,
+      "rating": 8.3
+    },
+    {
+      "name": "<link>Death Note</link>",
+      "genre": "Mystery, Psychological, Thriller",
+      "release_year": 2006,
+      "rating": 9.0
+    },
+    {
+      "name": "<link>Fullmetal Alchemist: Brotherhood</link>",
+      "genre": "Action, Adventure, Drama",
+      "release_year": 2009,
+      "rating": 9.1
+    }
+  ]
+}
