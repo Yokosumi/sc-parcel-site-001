@@ -2,7 +2,7 @@ import { IAnime } from "../../interface";
 
 export const Anime = (animeItems: IAnime[]) => {
   return /*html*/ `
-       ${animeItems.map((animeObj: IAnime) => {
+       ${animeItems.map((animeObj) => {
          return /*html*/ `
          <div class="m-4">
         <div class="font-bold text-red-800">Title: ${animeObj.name}</div>
